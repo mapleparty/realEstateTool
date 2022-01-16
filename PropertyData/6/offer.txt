@@ -1,0 +1,6 @@
+true,
+1,
+sulala,
+500000,
+true,
+false,
